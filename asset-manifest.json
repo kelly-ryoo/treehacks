@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/treehacks/static/css/main.98c3f737.css",
+    "main.js": "/treehacks/static/js/main.eaddb2e6.js",
+    "static/js/453.7c655371.chunk.js": "/treehacks/static/js/453.7c655371.chunk.js",
+    "static/media/hdi_vs_inequality.png": "/treehacks/static/media/hdi_vs_inequality.a9ff7a963cfff6fd313a.png",
+    "static/media/earth.png": "/treehacks/static/media/earth.ce53f1d306d0d620df3f.png",
+    "static/media/cream.ttf": "/treehacks/static/media/cream.b1abd7213807deb49cfd.ttf",
+    "static/media/global_inequality.csv": "/treehacks/static/media/global_inequality.675f86957a3b703f70d6.csv",
+    "static/media/iso-to-country.csv": "/treehacks/static/media/iso-to-country.e685dc98728d52d80178.csv",
+    "index.html": "/treehacks/index.html",
+    "main.98c3f737.css.map": "/treehacks/static/css/main.98c3f737.css.map",
+    "main.eaddb2e6.js.map": "/treehacks/static/js/main.eaddb2e6.js.map",
+    "453.7c655371.chunk.js.map": "/treehacks/static/js/453.7c655371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c3f737.css",
+    "static/js/main.eaddb2e6.js"
+  ]
+}
