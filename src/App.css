@@ -1,0 +1,40 @@
+@font-face {
+  font-family: cream;
+  src: url(cream.ttf);
+}
+
+.App {
+  font-family: cream;
+  color: white;
+  background-color: #0B2A79;
+}
+
+/* 0. top intro */
+.TopIntro,
+.FinalPage {
+  height: 100vh;
+}
+
+.topIntroH1,
+.globalMapH1 {
+  font-size: 50px;
+}
+
+/* 1. global map */
+.GlobalMapIntro {
+  height: 100vh;
+}
+
+.GlobalMap {
+  height: 100vh;
+}
+
+/* 2. chart */
+.GlobalChart {
+  height: 100vh;
+
+}
+
+.grid-title {
+  color: white !important;
+}
